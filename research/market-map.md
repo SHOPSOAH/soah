@@ -450,5 +450,5 @@ Nathalie: 2,500 units to sell. 16,000 email subscribers who rarely buy. CORRECTE
 - Value at current sale prices: about $91,000 if everything sold.
 - Old pile: about 1,800 units priced $35 or less (worth about $46,000 at those prices). Largest lines: Red Tribal (Aria, Melanie), Evan White, Sicily and Gypsy (Hope, Zara, Sophie), Grey Tie Dye (Sadie, Sophie, Alba, Willow), Lily. These styles predate the Chosen Coverage positioning.
 - On-brand pile: Resort25 (Midnight Roses, White Eyelet, Dusk Rose, linen blend sets, Florence crochet skirts) plus the remaining Orange Dore and Fuchsia cover-ups. Several hundred units.
-- 111 products carry "boho" or "bohemian" tags, and 47 carry "sexy bikini." These tags feed the "boho" description Google shows for Soah.
+- 61 products carry the "bohemian" tag, 50 carry "boho" (some overlap), and 47 carry "sexy bikini." These tags feed the "boho" description Google shows for Soah.
 - Plan: the old pile leaves through bulk channels (boutique lots, Miami sample sale, closeout) and comes off shopsoah.com once a bulk buyer is lined up. The on-brand pile sells through the email and SMS archive and Instagram as sets, and funds the next print.
