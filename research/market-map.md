@@ -438,3 +438,9 @@ Nathalie: Orange Dore launched in 2023 and was restocked every year because cust
 - Plateau read: the buyers who wanted Orange Dore have it. Growth needs a new print, not another Orange Dore run.
 - Margin flag: sale prices of $43.60 to $50.80 on bikini pieces that cost $25 to $40 leave little or nothing after shipping and fees. Verify landed cost per unit.
 - Plan: one pre-order capsule in a new in-house print, 3 coverage styles, produced only after 12 paid units per style. Brief costs: 36 units at $25 to $40 = $900 to $1,440 production, against $3,500 to $5,000 in pre-order revenue at full price ($98 to $140 per piece).
+
+### Update: liquidation scale (2026-10-14)
+Nathalie: 2,500 units to sell. 16,000 email subscribers who rarely buy. Shopify tracks about 600 units, so about 1,900 sit outside Shopify inventory (location unconfirmed).
+- At $25 to $40 unit cost, about $62,000 to $100,000 of cost is tied up in stock. Moving it is the cash plan and the investor plan.
+- An email-only sale to a list that rarely buys cannot move 2,500 units. Volume has to come from bulk channels.
+- Recommended order: (1) wholesale lots to resort boutiques and hotel shops before the Caribbean winter season, through Faire (products already carry Resort24faire tags) and direct outreach; (2) an in-person Miami sample sale; (3) an email and SMS archive sale with a fixed end date, buyers segment first; (4) an off-price closeout buyer only for what remains after 90 days.
