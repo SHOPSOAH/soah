@@ -424,7 +424,7 @@ Store finding: Orange Dore product descriptions say "boho-inspired" and "flatter
 
 Nathalie: Meta ad losses after the 2025 Andromeda change forced a full ad stop. No cash to restock. Current strategy is selling everything on sale.
 
-Inventory (Shopify, last 90 days): about 600 real units on hand. Bikini 370 units, 55 sold in 90 days (about 20 months to clear at this pace). One-piece 36 left, 22 sold. Cover-up 17 left, 10 sold. ("return" and "Insurance" rows are system placeholders and were excluded.)
+Inventory (Shopify analytics report, undercounted; see liquidation update for the corrected 2,750 units): Bikini 370 units, 55 sold in 90 days (about 20 months to clear at this pace). One-piece 36 left, 22 sold. Cover-up 17 left, 10 sold. ("return" and "Insurance" rows are system placeholders and were excluded.)
 
 Engine recommendation:
 1. Keep liquidating, but move the sale off the public site to an email and SMS-only archive (noindexed collection or password page). Full-price shoppers and Google stop seeing $28 Soah.
@@ -440,7 +440,15 @@ Nathalie: Orange Dore launched in 2023 and was restocked every year because cust
 - Plan: one pre-order capsule in a new in-house print, 3 coverage styles, produced only after 12 paid units per style. Brief costs: 36 units at $25 to $40 = $900 to $1,440 production, against $3,500 to $5,000 in pre-order revenue at full price ($98 to $140 per piece).
 
 ### Update: liquidation scale (2026-10-14)
-Nathalie: 2,500 units to sell. 16,000 email subscribers who rarely buy. Shopify tracks about 600 units, so about 1,900 sit outside Shopify inventory (location unconfirmed).
+Nathalie: 2,500 units to sell. 16,000 email subscribers who rarely buy. CORRECTED: all stock is in Shopify. The earlier 600-unit figure came from the analytics inventory report, which undercounts. Product-level count: about 2,750 units.
 - At $25 to $40 unit cost, about $62,000 to $100,000 of cost is tied up in stock. Moving it is the cash plan and the investor plan.
 - An email-only sale to a list that rarely buys cannot move 2,500 units. Volume has to come from bulk channels.
 - Recommended order: (1) wholesale lots to resort boutiques and hotel shops before the Caribbean winter season, through Faire (products already carry Resort24faire tags) and direct outreach; (2) an in-person Miami sample sale; (3) an email and SMS archive sale with a fixed end date, buyers segment first; (4) an off-price closeout buyer only for what remains after 90 days.
+
+### Inventory audit (Shopify products, 2026-10-14)
+- About 2,750 units across all products with stock. Every one carries a Final Sale badge.
+- Value at current sale prices: about $91,000 if everything sold.
+- Old pile: about 1,800 units priced $35 or less (worth about $46,000 at those prices). Largest lines: Red Tribal (Aria, Melanie), Evan White, Sicily and Gypsy (Hope, Zara, Sophie), Grey Tie Dye (Sadie, Sophie, Alba, Willow), Lily. These styles predate the Chosen Coverage positioning.
+- On-brand pile: Resort25 (Midnight Roses, White Eyelet, Dusk Rose, linen blend sets, Florence crochet skirts) plus the remaining Orange Dore and Fuchsia cover-ups. Several hundred units.
+- 111 products carry "boho" or "bohemian" tags, and 47 carry "sexy bikini." These tags feed the "boho" description Google shows for Soah.
+- Plan: the old pile leaves through bulk channels (boutique lots, Miami sample sale, closeout) and comes off shopsoah.com once a bulk buyer is lined up. The on-brand pile sells through the email and SMS archive and Instagram as sets, and funds the next print.
