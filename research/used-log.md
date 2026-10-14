@@ -3,7 +3,7 @@
 Every piece shown and every piece marked used. Read before writing new pieces.
 
 ## Shown 2026-10-14 (market map refresh)
-1. Asked back [Carousel] (Request Cycle)
+1. Asked back [Carousel] (Request Cycle). PRODUCED 2026-10-14 as "You asked." request-list version
 2. Every table, one print [Carousel] (One-Print Day, St. Barth)
 3. Why we skipped the micro [Talking head] (Chosen Coverage Cut)
 4. Up close [Reel] (Second Look Check)

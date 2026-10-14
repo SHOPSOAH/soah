@@ -340,7 +340,7 @@ WARM (solution-aware, product-aware). Lead with proof and the fit objection, the
 
 ## OPEN QUESTIONS FOR NATHALIE (under 90% confidence)
 
-1. Was Orange Dore reprinted because customers asked? If yes, it is the hero proof of the mechanism. If no, do not use it as proof.
+1. ANSWERED 2026-10-14: customers asked for Orange Dore back. Shopify check: all 12 Orange Dore products date from 2023, carry the Final Sale badge at $43.60 to $86, and are down to broken sizes (Melina at 0 units). No reprint stock exists yet. Use: demand proof for a request list. Do not claim it is back until it is.
 2. Do Soah tops run small across the line, or only certain styles? Trustpilot says "size up one." Fit notes must match reality.
 3. Is the "direct" traffic spike (Aug 24,399 sessions) known bot traffic?
 
@@ -355,7 +355,7 @@ Voice check: editorial captions, observes her, never instructs her body. Framewo
    Hooks: "This print sold out in July. It came back in October." / "Forty women asked. One print returned." / "Printed in small runs. Brought back by request."
    Framework, The Request Cycle: (1) Drawn in-house (2) Printed small (3) Sold through (4) Asked back.
    Cards: 1 "Orange Dore. First run." 2 "July. Gone." 3 "August. The requests start." 4 "October. Back, in the same small run." 5 "Next print on the list: tell us which." CTA: comment ASKED.
-   Source: Shopify sales (Orange Dore top seller). BLOCKED until Nathalie confirms the reprint was request-driven and gives the real request count.
+   Source: Shopify sales (Orange Dore top seller); Nathalie confirmed customers asked for it back. UNBLOCKED as a request-list launch, finished copy below. Reprint not yet produced, so no card says it is back.
 
 2. "Every table, one print" [Carousel] | Cold | Pocket: One print, every table | Viral-Fit 77 | Keyword: SET
    Concept: St. Barth, one matching swim and resort set, three tables in one day.
@@ -392,3 +392,28 @@ Voice check: editorial captions, observes her, never instructs her body. Framewo
    Hook: "We start a style at twelve pieces, and that number changes how we design."
    Turn: how a 12-unit start lets a print come back on request. Gist, The Request Cycle. Invite: comment RUN to get on the request list.
    Guard: no factory location, no carbon numbers, no "one of a kind."
+
+### Piece 1, finished (produced 2026-10-14)
+
+Option A, "You asked." (pick)
+1. Orange Dore. You asked.
+2. First printed in a small run.
+3. The one-piece. The bustier. The high-waisted bottom.
+4. Sold through, size by size.
+5. Then the messages started.
+6. A print comes back when the list fills. Comment ASKED.
+
+Option B, "Asked back."
+1. Asked back.
+2. Orange Dore. Printed small.
+3. Gone by size, one at a time.
+4. The requests kept coming.
+5. The list decides what returns. Comment ASKED.
+
+Caption (A): Orange Dore sold through its first run, size by size. The requests kept coming. We bring a print back when enough of you ask for it. Comment ASKED and we send you the list.
+
+Why A: it opens on her, in two words, and turns the comment into a list signup. B reads as a brand announcement.
+
+Mechanics: ASKED triggers a DM with a link to an email plus SMS form tagged "request: Orange Dore." Full price only. Reprint in the coverage styles (Honey one-piece, Stella bustier, Erica high-waisted bottom). Skip Sarah (tagged "Cheeky") and Melina (cut out) because they contradict Chosen Coverage. Set the threshold from the 12-unit style minimum.
+
+Store finding: Orange Dore product descriptions say "boho-inspired" and "flattering," and tags include "Cheeky bikini" and "sexy bikini." This copy is a likely source of Google's "boho inspired" description of Soah. Rewrite these descriptions before the reprint launches.
