@@ -417,3 +417,17 @@ Why A: it opens on her, in two words, and turns the comment into a list signup. 
 Mechanics: ASKED triggers a DM with a link to an email plus SMS form tagged "request: Orange Dore." Full price only. Reprint in the coverage styles (Honey one-piece, Stella bustier, Erica high-waisted bottom). Skip Sarah (tagged "Cheeky") and Melina (cut out) because they contradict Chosen Coverage. Set the threshold from the 12-unit style minimum.
 
 Store finding: Orange Dore product descriptions say "boho-inspired" and "flattering," and tags include "Cheeky bikini" and "sexy bikini." This copy is a likely source of Google's "boho inspired" description of Soah. Rewrite these descriptions before the reprint launches.
+
+---
+
+## CASH CONSTRAINT UPDATE (2026-10-14)
+
+Nathalie: Meta ad losses after the 2025 Andromeda change forced a full ad stop. No cash to restock. Current strategy is selling everything on sale.
+
+Inventory (Shopify, last 90 days): about 600 real units on hand. Bikini 370 units, 55 sold in 90 days (about 20 months to clear at this pace). One-piece 36 left, 22 sold. Cover-up 17 left, 10 sold. ("return" and "Insurance" rows are system placeholders and were excluded.)
+
+Engine recommendation:
+1. Keep liquidating, but move the sale off the public site to an email and SMS-only archive (noindexed collection or password page). Full-price shoppers and Google stop seeing $28 Soah.
+2. Fund every reprint with paid pre-orders from the request list at full price. Produce a style once 12 units are paid (the factory minimum). Zero inventory risk, zero ad spend.
+3. Traffic comes from Instagram (0.48% conversion) and the list. Pinterest and paid stay off.
+4. Pre-orders need a firm ship date and same-day replies, given the 3.0 Trustpilot and delivery complaints.
