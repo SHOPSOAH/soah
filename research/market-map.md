@@ -437,4 +437,4 @@ Nathalie: Orange Dore launched in 2023 and was restocked every year because cust
 - Proof value: three years of request-driven restocks is real proof of the "brought back when she asks" mechanism. Use it as proof, not as the next hero.
 - Plateau read: the buyers who wanted Orange Dore have it. Growth needs a new print, not another Orange Dore run.
 - Margin flag: sale prices of $43.60 to $50.80 on bikini pieces that cost $25 to $40 leave little or nothing after shipping and fees. Verify landed cost per unit.
-- Plan: one pre-order capsule in a new in-house print, 3 coverage styles, produced only after 12 paid units per style. Brief costs: 36 units at $25 to $40 = $900 to $1,440 production, against about $4,000 to $5,000 in pre-order revenue at full price.
+- Plan: one pre-order capsule in a new in-house print, 3 coverage styles, produced only after 12 paid units per style. Brief costs: 36 units at $25 to $40 = $900 to $1,440 production, against $3,500 to $5,000 in pre-order revenue at full price ($98 to $140 per piece).
